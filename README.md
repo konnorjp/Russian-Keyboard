@@ -2,17 +2,13 @@
 Russian keyboard with additional symbols that can be used to create a phonetic transcription, including an accent mark
 
 ## Keyboard layout has:
-COMBINING ACUTE ACCENT:  ́ 
-  Unicode: U+0301, UTF-8: CC 81
+COMBINING ACUTE ACCENT: "  ́ " Unicode: U+0301, UTF-8: CC 81
   
-COMBINING CIRCUMFLEX ACCENT:  ̂
-  Unicode: U+0302, UTF-8: CC 82
+COMBINING CIRCUMFLEX ACCENT: "  ̂ " Unicode: U+0302, UTF-8: CC 82
   
-LATIN SMALL LETTER TURNED V: ʌ
-  Unicode: U+028C, UTF-8: CA 8C
+LATIN SMALL LETTER TURNED V: " ʌ " Unicode: U+028C, UTF-8: CA 8C
   
-LATIN SMALL LETTER AE: æ
-  Unicode: U+00E6, UTF-8: C3 A6
+LATIN SMALL LETTER AE: " æ " Unicode: U+00E6, UTF-8: C3 A6
   
 
 Normal state
